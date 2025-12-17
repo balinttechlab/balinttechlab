@@ -2,7 +2,7 @@
 
 I'm a **Senior Full Stack Engineer** passionate about building scalable, high-performance web, desktop and cloud applications. I love solving complex problems and working across the full stack — from backend architecture to frontend design.  
 
-![Happy Coder](https://www.lgtmgifs.com/gifs/happy-coder)
+![Programmer on Laptop](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
 
 ## 💻 Tech Stack
 
