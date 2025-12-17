@@ -1,8 +1,10 @@
 # Hi, I'm Balint Gorocs 👋
+![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 I'm a **Senior Full Stack Engineer** passionate about building scalable, high-performance web, desktop and cloud applications. I love solving complex problems and working across the full stack — from backend architecture to frontend design.  
 
----
+### ⚡ Fun GIF
+![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ## 💻 Tech Stack
 
@@ -45,7 +47,3 @@ I'm a **Senior Full Stack Engineer** passionate about building scalable, high-pe
 
 ### ⚡ Fun fact
 I enjoy exploring **new technologies, optimizing systems, and mentoring developers** to level up their skills.
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=balinttechlab&show_icons=true&theme=radical)
-
-
