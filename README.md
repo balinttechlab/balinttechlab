@@ -1,4 +1,4 @@
-<img width="782" height="35" alt="image" src="https://github.com/user-attachments/assets/fdc5d8e4-3192-4c06-81f0-ec6ef995cfe7" /># Hi, I'm [Your Name] 👋
+# Hi, I'm Balint Gorocs 👋
 
 I'm a **Senior Full Stack Engineer** passionate about building scalable, high-performance web, desktop and cloud applications. I love solving complex problems and working across the full stack — from backend architecture to frontend design.  
 
@@ -17,16 +17,16 @@ I'm a **Senior Full Stack Engineer** passionate about building scalable, high-pe
 - **Blazor / WPF**
 
 ### DevOps & Cloud
-- Docker, Kubernetes, Terraform  
-- CI/CD (GitHub Actions, Jenkins, GitLab CI)  
-- AWS, GCP
+- **Docker, Kubernetes, Terraform**
+- **CI/CD (GitHub Actions, Jenkins, GitLab CI)**  
+- **AWS, GCP**
 
 ### Databases
-- PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+- **PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch**
 
 ### Other
-- Microservices, REST & GraphQL APIs, WebSockets  
-- RabbitMQ, Kafka, Performance & Security Best Practices
+- **Microservices, REST & GraphQL APIs, WebSockets**  
+- **RabbitMQ, Kafka, Performance & Security Best Practices**
 
 ---
 
@@ -38,14 +38,14 @@ I'm a **Senior Full Stack Engineer** passionate about building scalable, high-pe
 ---
 
 ## 📫 Connect with me
-- Email: [balintgorocs09@outlook.com]  
-- LinkedIn: [https://www.linkedin.com/in/bálint-göröcs]  
+- Email: balintgorocs09@outlook.com
+- LinkedIn: https://www.linkedin.com/in/bálint-göröcs
 
 ---
 
 ### ⚡ Fun fact
 I enjoy exploring **new technologies, optimizing systems, and mentoring developers** to level up their skills.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=balinttechlab&show_icons=true&theme=radical)
 
 
