@@ -1,8 +1,12 @@
-# Hi, I'm Balint Gorocs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Hi, I'm Balint Gorocs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 I'm a **Senior Full Stack Engineer** passionate about building scalable, high-performance web, desktop and cloud applications. I love solving complex problems and working across the full stack — from backend architecture to frontend design.  
 
-![Coding Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/3o7abld9gk0u0y0a4U/giphy.gif)
+![Coffee Coding](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+![Debugging](https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif)
+![Laptop Coding](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
+![Brainstorm](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
 
 ## 💻 Tech Stack
 
